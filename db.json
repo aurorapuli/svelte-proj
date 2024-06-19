@@ -1,0 +1,61 @@
+{
+    "recensioni": [
+        {
+            "nome": "Mario Rossi",
+            "voto": 5,
+            "testo": "Esperienza fantastica! Il cibo era delizioso e il servizio impeccabile. Sicuramente tornerò."
+        },
+        {
+            "nome": "Laura Bianchi",
+            "voto": 4,
+            "testo": "Ottimo ristorante, l'ambiente è molto accogliente. Il dessert è stato la parte migliore della serata!"
+        },
+        {
+            "nome": "Giuseppe Verdi",
+            "voto": 3,
+            "testo": "Il cibo era buono, ma il servizio è stato un po' lento. Nel complesso, un'esperienza positiva."
+        },
+        {
+            "nome": "Anna Neri",
+            "voto": 2,
+            "testo": "Non sono rimasta molto soddisfatta, il cibo non era all'altezza delle aspettative e il servizio era poco cordiale."
+        },
+        {
+            "nome": "Luca Gialli",
+            "voto": 1,
+            "testo": "Esperienza deludente. Il cibo era freddo e il servizio scadente. Non lo consiglierei."
+        }
+    ],
+    "piattiRistorante": [
+        {
+            "nome": "My Selection BBQ",
+            "img": "https://www.mcdonalds.it/sites/default/files/styles/product_isolated_preview/public/products/mys-bbq--hero-isolated.png?itok=_X1VHjgk",
+            "ingredienti": "Carne di manzo,Formaggio cheddar,Cipolle croccanti, Salsa BBQ,Pane con semi di sesamo"
+        },
+        {
+            "nome": "Gran Crispy McBacon",
+            "img": "https://www.mcdonalds.it/sites/default/files/styles/product_isolated_preview/public/products/isolated--gran-crispymcbacon_1.png?itok=Ucxz1KE2",
+            "ingredienti": "Carne di manzo,Bacon croccante,Formaggio cheddar,Cipolle croccanti,Salsa McBacon,Pane con semi di sesamo"
+        },
+        {
+            "nome": "Big Mac",
+            "img": "https://www.mcdonalds.it/sites/default/files/styles/product_isolated_preview/public/products/big-mac-isolated.png?itok=jQEbyoQJ",
+            "ingredienti": "Due fette di carne di manzo,Formaggio cheddar,Lattuga,Cetriolini,Cipolla,Salsa Big Mac,Pane con semi di sesamo"
+        },
+        {
+            "nome": "McChicken",
+            "img": "https://www.mcdonalds.it/sites/default/files/styles/product_isolated_preview/public/products/mcchicken--hero-isolated.png?itok=_8uEiFFU",
+            "ingredienti": "Pollo fritto,Lattuga,Salsa McChicken,Pane con semi di sesamo"
+        },
+        {
+            "nome": "Cheeseburger",
+            "img": "https://www.mcdonalds.it/sites/default/files/styles/product_isolated_preview/public/products/hamburger--hero-isolated.png?itok=oqQTNwnG",
+            "ingredienti": "Carne di manzo,Formaggio cheddar,Cetriolini,Cipolla,Ketchup,Pane con semi di sesamo"
+        },
+        {
+            "nome": "Gluten Free Burger",
+            "img": "https://www.mcdonalds.it/sites/default/files/styles/product_isolated_preview/public/products/gluten-free-burger_isolated_1%201%20%281%29.png?itok=ygR07HPP",
+            "ingredienti": "Due fette di carne di manzo,Formaggio cheddar,Lattuga,Cetriolini,Cipolla,Salsa Big Mac,Pane con semi di sesamo"
+        }
+    ]
+}
